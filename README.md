@@ -35,6 +35,10 @@ ___
 - [Übersicht](http://tracesof.net/uebersicht-widgets/)(Background widgets, optional)
 
 ### iTerm Setup
+#### Profile
+- import `iterm-profile/com.googlecode.iterm2.plist` to iTerm for colors
+
+#### Terminal Tools
 1. install Homebrew  
   - `
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
