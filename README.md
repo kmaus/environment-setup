@@ -49,7 +49,7 @@ ___
   - `brew install git`
 4. install Zsh
   - `brew install zsh zsh-completions`
-5. install Git
+5. install Node and npm
   - `brew install node`
 
 ### Atom
