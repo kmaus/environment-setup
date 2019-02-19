@@ -39,10 +39,10 @@ ___
 - import `iterm-profile/com.googlecode.iterm2.plist` to iTerm for colors
 
 #### Terminal Tools
+0. install command line tools
+- `xcode-select --install`
 1. install Homebrew  
-  - `
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-`
+  - ` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 2. install Vim
   - `brew install vim`
 3. install Git
